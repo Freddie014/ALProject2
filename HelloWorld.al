@@ -3,9 +3,9 @@
 // AL snippets start with t*, like tpageext - give them a try and happy coding!
 
 /// <summary>
-/// PageExtension CustomerListExt (ID 50100) extends Record Customer List.
+/// PageExtension CustomerListExt (ID 50101) extends Record Customer List.
 /// </summary>
-pageextension 50100 CustomerListExt extends 
+pageextension 50101 CustomerListExt extends 
 {
     trigger OnOpenPage();
     begin
